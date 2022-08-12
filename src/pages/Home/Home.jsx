@@ -34,6 +34,10 @@ const Home = () => {
           iusto soluta illo fugiat deserunt, impedit asperiores voluptatibus
           commodi quis, dignissimos harum, tenetur accusamus tempora.
         </p>
+        <p>
+          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quae,
+          tempora?
+        </p>
         <br />
         <br />
         <br />
