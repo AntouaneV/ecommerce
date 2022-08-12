@@ -26,7 +26,14 @@ const Home = () => {
   return (
     <div className="home">
       <div className="container is-fluid">
-        <PopularCard />
+        {/* <PopularCard /> */}
+        <h1 className="title">Bienvenue sur notre site web</h1>
+        <p>Ici vous trouverez les billets les moins chers du marché</p>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum fuga
+          iusto soluta illo fugiat deserunt, impedit asperiores voluptatibus
+          commodi quis, dignissimos harum, tenetur accusamus tempora.
+        </p>
         <br />
         <br />
         <br />
